@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Lista_Contactos">
+
+    <item android:id="@+id/nuevoContacto"
+        android:title="@string/nuevo"
+        android:orderInCategory="1"/>
+
+    <item android:id="@+id/asc"
+        android:title="@string/asc"
+        android:orderInCategory="2"/>
+    <item android:id="@+id/desc"
+        android:title="@string/desc"
+        android:orderInCategory="3"/>
+    <item android:id="@+id/copia"
+        android:title="Copia de seguridad"
+        android:visible="false"
+        android:orderInCategory="4" />
+
+</menu>

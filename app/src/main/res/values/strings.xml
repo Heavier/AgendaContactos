@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Agenda de contactos</string>
+
+    <string name="xnombre">XXX</string>
+    <string name="xnumero">000 000 000</string>
+
+    <string name="nombre">Nombre: </string>
+    <string name="telef">Telf: </string>
+
+    <string name="detalles">Detalles</string>
+    <string name="editar">Editar</string>
+    <string name="nuevo">Nuevo</string>
+    <string name="asc">Orden ascendente</string>
+    <string name="desc">Orden descendente</string>
+
+    <string name="confirmar_eliminar">Contacto a eliminar:</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+
+</resources>
